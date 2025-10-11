@@ -1,10 +1,8 @@
 # About Me
 
-[![Head Banner](https://api.xecades.xyz/api?bilibili=MeTerminator&github=MeTerminator&qq=3532095196&quote=MeTerminator+%7C+Met6.top&img=2&site=Met6.Top)](https://met6.top/)
-
 ### MeTerminator
 
-  * Website: [met6.top](https://met6.top/)
+  * Website: [Met6.top](https://met6.top/)
 
   * QQ: [3532095196](https://qm.qq.com/q/CUG7wzOxDE)
 
