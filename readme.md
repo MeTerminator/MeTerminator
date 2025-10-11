@@ -2,9 +2,7 @@
 
 ### MeTerminator
 
-<img style="border-radius: 50%; width: 100px; height: 100px;" align="center" src="https://www.met6.top:444/images/icon/logo.png" />
-
-<br>
+<img style="width: 100px; height: 100px;" align="center" src="https://www.met6.top:444/images/icon/logo.png" />
 
   * Website: https://met6.top/
 
