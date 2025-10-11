@@ -1,14 +1,16 @@
 # About Me
 
+[![Head Banner](https://api.xecades.xyz/api?bilibili=MeTerminator&github=MeTerminator&qq=3532095196&quote=MeTerminator+%7C+Met6.top&img=2&site=Met6.Top)](https://met6.top/)
+
 ### MeTerminator
 
-<img style="width: 100px; height: 100px;" align="center" src="https://www.met6.top:444/images/icon/logo.png" />
-
-  * Website: https://met6.top/
+  * Website: [met6.top](https://met6.top/)
 
   * QQ: [3532095196](https://qm.qq.com/q/CUG7wzOxDE)
 
   * Bilibili: [381828152](https://space.bilibili.com/381828152)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+JP&weight=600&duration=4000&pause=1000&color=EC304C&width=435&lines=Stay+Hungry.+Stay+Foolish.;%E6%B1%82%E7%9F%A5%E8%8B%A5%E6%B8%B4%EF%BC%8C%E5%A4%A7%E6%99%BA%E8%8B%A5%E6%84%9A%E3%80%82)](https://met6.top/)
 
 # Projects
 
