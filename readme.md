@@ -31,6 +31,18 @@ ClipBox 是一个精致高效的临时文件分享站，类似于 FileCodeBox，
 一个在 MC Paper 服务端中，向 MCSM 实例发送指令的插件。
 `
 
+* [MeT-Music_MCPlugin](https://github.com/MeTerminator/MeT-Music_MCPlugin)
+
+`
+一个基于 Paper 的 Minecraft 服务器点歌/队列/歌词展示插件。拥有搜索与点歌、歌词与进度、歌单浏览与播放、播放控制、状态上报等功能。
+`
+
+* [MeT-Music_Player](https://github.com/MeTerminator/MeT-Music_Player)
+
+`
+一个基于 React 的网页端播放器。配合 MeT-Music 实现远程收听功能。包含歌词显示、音乐频谱、歌曲信息、流体背景等功能。
+`
+
 * [hcf2023](https://github.com/MeTerminator/hcf2023)
 
 `
