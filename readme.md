@@ -38,10 +38,11 @@
     * 一个基于 Paper 的 Minecraft 服务器点歌/队列/歌词展示插件。拥有搜索与点歌、歌词与进度、歌单浏览与播放、播放控制、状态上报等功能。
     * A song request/queue/lyric display plugin for Minecraft servers based on Paper. It includes features like searching and requesting songs, lyrics and progress display, playlist browsing and playback, playback controls, and status reporting.
 
-* [MeT-Music\_Player](https://github.com/MeTerminator/MeT-Music\_Player)
+* [Homework-Station](https://github.com/MeTerminator/Homework-Station)
 
-    * 一个基于 React 的网页端播放器。配合 MeT-Music 实现远程收听功能。包含歌词显示、音乐频谱、歌曲信息、流体背景等功能。
-    * A web-based player built with React. It works in conjunction with MeT-Music to enable remote listening functionality. Features include lyric display, music spectrum visualization, song information, and fluid background effects.
+    * 一个基于 Flask 的作业提交系统。可以提前设置作业，学生可以提交和下载对应的作业，管理员可以查看提交情况，检查或删除学生提交的作业。
+    * A Flask-based Assignment Submission System. Features include the ability to pre-configure assignments, allowing students to submit and download specific coursework. Administrators can monitor submission status and have the authority to review or delete student submissions.
+
 
 * [hcf2023](https://github.com/MeTerminator/hcf2023)
 
