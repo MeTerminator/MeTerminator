@@ -49,9 +49,6 @@
     * 设备检测 - 安卓还是苹果
     * Device detection - Android or Apple (iOS).
 
-* [fasscloud-client-build](https://github.com/MeTerminator/fasscloud-client-build)
-
-    * FassCloud Mihomo Client.
 
 # My GitHub Stats
 
