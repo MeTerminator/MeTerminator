@@ -13,6 +13,11 @@
 
 # Projects
 
+* [MeT-Home](https://github.com/MeTerminator/met-home)
+
+    * MeT-Home 是我的个人主页。本项目基于 Vue 3、TypeScript、Three.js 以及 GSAP 构建。
+    * MeT-Home is a personal homepage for MeTerminator. Built with Vue 3, TypeScript, Three.js, and GSAP.
+
 * [ClipBox](https://github.com/MeTerminator/ClipBox)
 
     * ClipBox 是一个精致高效的临时文件分享站，类似于 FileCodeBox，支持文件分享、剪贴板分享和短链接功能。同时，它还集成了一个独特的考试时钟功能，可根据文档设置考试科目与时间，并支持 NTP 时间同步。
