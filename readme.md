@@ -62,9 +62,5 @@
 
 # My GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MeTerminator&show_icons=true&theme=radical&include_all_commits=true" alt="MeTerminator" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeTerminator&theme=radical&layout=compact" alt="MeTerminator" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MeTerminator" alt="MeTerminator" />
+<img align="center" src="https://githubcard.com/MeTerminator.svg?d=xMG5i3Io" alt="MeTerminator" />
 
