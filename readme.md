@@ -59,24 +59,24 @@
 
 ### 💻 Stack
 <p align="left">
-<img src="[https://skillicons.dev/icons?i=py,js,ts,go,rust,cpp,cs,java,dart,kotlin,php,html,css,sass](https://skillicons.dev/icons?i=py,js,ts,go,rust,cpp,cs,java,dart,kotlin,php,html,css,sass)" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,cpp,cs,java,dart,kotlin,php,html,css,sass" />
 </p>
 
 ### 🛠️ Frameworks & Libraries
 <p align="left">
-<img src="[https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,electron,flutter,spring,django,flask,express,laravel,bootstrap,tailwind,threejs,jquery](https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,electron,flutter,spring,django,flask,express,laravel,bootstrap,tailwind,threejs,jquery)" />
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs,nuxtjs,electron,flutter,spring,django,flask,express,laravel,bootstrap,tailwind,threejs,jquery" />
 </p>
 
 ### 🧰 Tools & Software
 <p align="left">
-<img src="[https://skillicons.dev/icons?i=docker,git,linux,nginx,mysql,postgres,mongodb,redis,sqlite,grafana,prometheus,anaconda,androidstudio,ps,qt,webpack](https://skillicons.dev/icons?i=docker,git,linux,nginx,mysql,postgres,mongodb,redis,sqlite,grafana,prometheus,anaconda,androidstudio,ps,qt,webpack)" />
+<img src="https://skillicons.dev/icons?i=docker,git,linux,nginx,mysql,postgres,mongodb,redis,sqlite,grafana,prometheus,anaconda,androidstudio,ps,qt,webpack" />
 </p>
 
 ### 🤖 AI & Others
 <p align="left">
-<img src="[https://skillicons.dev/icons?i=pycharm,vscode,idea,postman,ollama](https://skillicons.dev/icons?i=pycharm,vscode,idea,postman,ollama)" />
-<a href="[https://github.com/MeTerminator](https://github.com/MeTerminator)"><img src="[https://cdn.simpleicons.org/puppeteer/40B5A4](https://cdn.simpleicons.org/puppeteer/40B5A4)" height="48" /></a>
-<a href="[https://github.com/MeTerminator](https://github.com/MeTerminator)"><img src="[https://cdn.simpleicons.org/gradio/FF7C00](https://cdn.simpleicons.org/gradio/FF7C00)" height="48" /></a>
+<img src="https://skillicons.dev/icons?i=pycharm,vscode,idea,postman,ollama" />
+<a href="https://github.com/MeTerminator"><img src="https://cdn.simpleicons.org/puppeteer/40B5A4" height="48" /></a>
+<a href="https://github.com/MeTerminator"><img src="https://cdn.simpleicons.org/gradio/FF7C00" height="48" /></a>
 </p>
 
 
