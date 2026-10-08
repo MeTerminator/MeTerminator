@@ -33,7 +33,7 @@
     * 一个在 MC Paper 服务端中，向 MCSM 实例发送指令的插件。
     * A plugin for MC Paper server that allows sending commands to the MCSM (Minecraft Server Manager) instance.
 
-* [MeT-Music_App](https://github.com/MeTerminator/MeT-Music_App)
+* [MeT-Music_Desktop](https://github.com/MeTerminator/MeT-Music_Desktop)
 
     * MeT-Music 桌面客户端，包含桌面歌词，后台播放，播放控制等功能。由 Electron 编写，支持多平台。
     * MeT-Music Desktop Client, featuring desktop lyrics, background playback, and playback controls. Written with Electron, it supports multiple platforms.
