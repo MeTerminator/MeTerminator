@@ -15,8 +15,8 @@
 
 * [MeetSchedule](https://meetschedule.top/)
 
-    * 基于 Flutter 的重邮课表 App，支持 Android 和 iOS，提供课表查询、自定义行程、日历同步、桌面与锁屏小组件及 Apple Watch 支持。
-    * A Flutter-based CQUPT schedule app for Android and iOS, featuring timetable queries, custom events, calendar sync, home and lock screen widgets, and Apple Watch support.
+    * 通用课表 App：借助 AI 导入任意学校课表，支持自定义课程 / 事件 / 作业 / 考试、云同步与开放平台。 不登录即可本地使用；登录后解锁 AI、云同步等云端能力。
+    * A general-purpose timetable app that uses AI to import schedules from any school, with custom courses, events, assignments, exams, cloud sync, and an open platform. Use it locally without signing in; sign in to unlock AI, cloud sync, and other cloud features.
 
 * [ClipBox](https://github.com/MeTerminator/ClipBox)
 
@@ -57,6 +57,12 @@
 
     * 基于 Kotlin Multiplatform 和 Compose Multiplatform 的 MeT-Music 播放器，支持 Android、Web 和桌面端，集成 AMLL/TTML 歌词解析与同步显示。
     * A MeT-Music player built with Kotlin Multiplatform and Compose Multiplatform for Android, Web, and desktop, with AMLL/TTML lyric parsing and synchronized display.
+
+
+* [FancyDeck](https://github.com/MeTerminator/FancyDeck)
+
+    * 插件驱动的桌面信息屏，支持时间、天气、音乐与歌词等卡片，通过触发条件自动切换布局，并提供可视化管理后台。
+    * A plugin-driven desktop information display with cards for time, weather, music, and lyrics, automatic layout switching based on triggers, and a visual management console.
 
 
 # Languages and Tools
