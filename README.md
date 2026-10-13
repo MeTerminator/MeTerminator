@@ -15,8 +15,8 @@
 
 * [MeetSchedule](https://meetschedule.top/)
 
-    * 通用课表 App：借助 AI 导入任意学校课表，支持自定义课程 / 事件 / 作业 / 考试、云同步与开放平台。 不登录即可本地使用；登录后解锁 AI、云同步等云端能力。
-    * A general-purpose timetable app that uses AI to import schedules from any school, with custom courses, events, assignments, exams, cloud sync, and an open platform. Use it locally without signing in; sign in to unlock AI, cloud sync, and other cloud features.
+    * Meet 课程表用 AI Agent 识别课表截图或教务系统页面，几秒钟导入任意学校的课程安排；支持自定义课程、事件、作业与考试，云端同步到你的每一台设备。
+    * MeetSchedule uses an AI Agent to recognize timetable screenshots or academic portal pages and import course schedules from any school in seconds. It supports custom courses, events, assignments, and exams, with cloud sync across all your devices.
 
 * [ClipBox](https://github.com/MeTerminator/ClipBox)
 
