@@ -100,7 +100,7 @@ A family of web, desktop, and mobile music projects focused on word-by-word lyri
 
 ### 🤖 AI & Others
 <p align="left">
-<img src="https://skillicons.dev/icons?i=pycharm,vscode,idea,postman" />
+<img src="https://skillicons.dev/icons?i=pycharm,vscode,idea,postman,notion" />
 <a href="https://github.com/MeTerminator"><img src="https://cdn.simpleicons.org/puppeteer/40B5A4" height="48" /></a>
 <a href="https://github.com/MeTerminator"><img src="https://cdn.simpleicons.org/gradio/FF7C00" height="48" /></a>
 </p>
