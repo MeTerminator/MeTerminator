@@ -6,7 +6,7 @@
 
   * QQ: [3532095196](https://qm.qq.com/q/CUG7wzOxDE)
 
-  * Bilibili: [381828152](https://space.bilibili.com/381828152)
+  * Bilibili: [MeTerminator](https://space.bilibili.com/381828152)
 
 [![Typing SVG](slogan.svg)](https://met6.top/)
 
